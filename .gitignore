@@ -1,3 +1,5 @@
 kg/*.csv
 model/*.pkl
 model/*.pt
+data/
+data/*
